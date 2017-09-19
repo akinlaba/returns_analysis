@@ -6,3 +6,4 @@ part_2: It holds an attempt to predict T+1 with cumulative sum feature engineeri
 part_3: It holds an attempt to predict T+1 with sum of compount interest feature engineering
 classification: It holds an attempt to predict T+1 as a binary label (above or below 0)
 return_121: It holds an attempt to predict return 121 on day T
+one_instrument: It holds an attempt to track and predict one financial instrument within a known time period
